@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Celmar97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Celmar97/Celmar97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in statistics and data science and more generally mathematics and data processing (kernel methods, optimal transport, image processing, ...)
+- 🌱 I’m currently learning GANs in computer vision
+- 📫 How to reach me : marcel.gibier.pro@gmail.com
