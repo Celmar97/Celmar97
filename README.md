@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Celmar97
-- 👀 I’m interested in statistics and data science and more generally mathematics and data processing (kernel methods, optimal transport, image processing, ...)
-- 🌱 I’m currently learning GANs in computer vision
-- 📫 How to reach me : marcel@kinetix.tech
